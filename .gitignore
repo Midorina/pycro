@@ -1,0 +1,10 @@
+
+.gitignore
+.idea/.gitignore
+.idea/deployment.xml
+.idea/inspectionProfiles/
+.idea/misc.xml
+.idea/modules.xml
+.idea/pycro.iml
+__pycache__/
+test.py
